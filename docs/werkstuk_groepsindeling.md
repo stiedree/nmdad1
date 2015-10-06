@@ -154,6 +154,7 @@ Groepsindeling zal plaatsvinden binnen elke klas, dus **niet over klassen heen**
 |2MMPA-18|Janssens Shaun, Van der Meeren Vincent, Aliaj Gazmend|
 |2MMPA-19|Broekaert Thomas, Vinjé Jonathan|
 |2MMPA-20|Meyers Andries|
+|2MMPA-21|Dreesen Stien|
 
 **2MMPB = 2MMP-proDUCEa**
 
